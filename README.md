@@ -175,9 +175,8 @@ Feel free to contribute by:
 - Suggesting improvements
 
 ## Connect with Me
-- [LinkedIn](https://linkedin.com/in/nileshhadalgi)
-- [Twitter](https://twitter.com/nileshhadalgi)
-- [Blog](https://nileshhadalgi.com)
+- [LinkedIn](https://www.linkedin.com/in/nilesh-hadalgi-51b648177)
+- [Twitter](https://x.com/nileshhadalgi16)
 
 ## License
 MIT License - See [LICENSE.md](LICENSE.md)
