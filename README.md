@@ -1,5 +1,3 @@
-# 150-java-interview-questions-and-answers
-
 # 150 Java Interview Questions for 2025 🚀
 [![GitHub stars](https://img.shields.io/github/stars/nileshhadalgi016/150-java-interview-questions-and-answers?style=social)](https://github.com/nileshhadalgi016/150-java-interview-questions-and-answers)
 
